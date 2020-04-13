@@ -1,0 +1,1 @@
+export { default as ChosenCategory } from './ChosenCategory'
